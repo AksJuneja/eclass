@@ -88,12 +88,12 @@ The Sprint Planning for the process of 3 weeks.
 
 Before every sprint I used to set a target and plan for my proceedings.
 
-**Sprint 1** : After deciding the tech stack and the work flow, I worked on creating the layout of the main page. After this work was done, the main task I followed during this period was to create the "Create a class" and "Join a class" portal.
+**Sprint 1** : After deciding the tech stack and the work flow, I worked on creating the layout of the main page. After this work was done, the main task I followed during this period was to create the "Create a class" and "Join a class" feature.
 
 
-After Sprint 1, I took the feedback and guidance of my mentor for the next week.
+After Sprint 1, I took the feedback of my mentor and discussed the strategies for the next week.
 
-**Sprint 2** : The next task I accomplished for this sprint was to design the "announcement" portal, the video link access and teacher able to take the quick attendance of the attendees along with their joining time of the meet.
+**Sprint 2** : The next task I accomplished for this sprint was to design the "announcement" feature, the video link access and teacher able to take the quick attendance of the attendees along with their joining time of the meet.
 
 After this was done, my mentor guided me with the two-roles access for different users to work for the last sprint of my progress.
 
