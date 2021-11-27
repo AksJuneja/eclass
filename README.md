@@ -40,22 +40,22 @@ E Class is an online classroom for educational institutes for managing different
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#mandatory-feature">Create a Class</a>
+      <a href="#create-a-class">Create a Class</a>
     </li>
     <li>
-      <a href="#adopt-feature">Join a Class</a>
+      <a href="#join-a-class">Join a Class</a>
     </li>
     <li>
-      <a href="#additional-features">Post an announcement</a>
+      <a href="#post-an-announcement">Post an announcement</a>
    </li>
    <li>
-	   <a href="#additional-features">Upload an assignment</a>
+	   <a href="#upload-an-assignment">Upload an assignment</a>
    </li>
     <li>
-	   <a href="#additional-features">Join the video meet</a>
+	   <a href="#join-the-video-meet">Join the video meet</a>
    </li>
     <li>
-	   <a href="#additional-features">Quick attendance</a>
+	   <a href="#quick-attendance">Quick attendance</a>
    </li>
     </li>
   </ol>
