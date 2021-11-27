@@ -1,0 +1,75 @@
+
+.body{
+  background-image: url('https://myviewboard.com/blog/wp-content/uploads/2020/08/MP0027-01-scaled.jpg');
+  height: 100vh;
+  background-size: cover;
+}
+
+.login {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  height: 30vh;
+}
+
+.login_2 {
+  display: flex;
+  justify-content: center;
+  background-color: white;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  margin-top: 30vh;
+  width: 10%;
+  padding: 40px;
+}
+
+.login__logo {
+  justify-content: center;
+  margin-top: 20%;
+  object-fit: contain;
+  height: 50vh;
+}
+
+.login__logo2 {
+  justify-content: center;
+  object-fit: contain;
+  height: 5vh;
+}
+
+.Teacher{
+  font-variant: contained;
+  font-style: normal;
+  font-size: 3vh;
+  justify-content:start;
+  object-fit: contain;
+  display: flex;
+  margin-left: -30vh;
+  margin-top: 5.5vh;
+}
+.Student{
+  font-variant: contained;
+  font-style: normal;
+  font-size: 3vh;
+  object-fit: contain;
+  display: flex;
+  margin-left: 15vh;
+  margin-top: -1.5vh;
+  margin-bottom: 3vh;
+}
+.loginas{
+  font-variant: contained;
+  font-style: normal;
+  font-size: 100vh;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 800vh;
+  justify-content:center;
+  margin-left: 2vh;
+  margin-top: 2vh;
+}
+
+Button
+{
+  background-color: green;
+}
