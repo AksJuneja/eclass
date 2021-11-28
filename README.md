@@ -1,4 +1,6 @@
 
+
+
 <h1 align="center">
   <br>
   <a href="https://eclass-d6336.web.app/signin"><img src="https://myviewboard.com/blog/wp-content/uploads/2020/08/MP0027-01-scaled.jpg" alt="MS Teams Logo" width="200"></a>
@@ -39,6 +41,9 @@ E Class is an online classroom for educational institutes for managing different
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
+  <li>
+      <a href="#authentication">Authentication</a>
+    </li>
     <li>
       <a href="#create-a-class">Create a Class</a>
     </li>
@@ -57,9 +62,16 @@ E Class is an online classroom for educational institutes for managing different
     <li>
 	   <a href="#quick-attendance">Quick attendance</a>
    </li>
+   <li>
+	   <a href="#log-out">Log out</a>
+   </li>
     </li>
   </ol>
 </details>
+
+## Authentication
+
+<li>The login page is a role based login for different users. The user chooses his role as either a "Teacher" or a "Student" and thereby the user is redirected to the Google sign up page where the user can login using his Google account.</li>
 
 ## Create a Class
 
@@ -81,6 +93,9 @@ E Class is an online classroom for educational institutes for managing different
 ## Quick Attendance
 <li>The teacher (owner of the meet) can use the extension to download the csv file of the students in the video meet along with their time of joining. </li>
 
+## Log out
+<li>The user can directly log out from the E Class by clicking on the Google Account picture icon on the top right of the main page. </li>
+
 
 ## Agile
 
@@ -88,12 +103,12 @@ The Sprint Planning for the process of 3 weeks.
 
 Before every sprint I used to set a target and plan for my proceedings.
 
-**Sprint 1** : After deciding the tech stack and the work flow, I worked on creating the layout of the main page. After this work was done, the main task I followed during this period was to create the "Create a class" and "Join a class" feature.
+**Sprint 1** : After deciding the tech stack and the work flow, I worked on creating the layout of the main page. After this work was done, the main task I followed during this period was to create the "Create a class" and "Join a class" portal.
 
 
-After Sprint 1, I took the feedback of my mentor and discussed the strategies for the next week.
+After Sprint 1, I took the feedback and guidance of my mentor for the next week.
 
-**Sprint 2** : The next task I accomplished for this sprint was to design the "announcement" feature, the video link access and teacher able to take the quick attendance of the attendees along with their joining time of the meet.
+**Sprint 2** : The next task I accomplished for this sprint was to design the "announcement" portal, the video link access and teacher able to take the quick attendance of the attendees along with their joining time of the meet.
 
 After this was done, my mentor guided me with the two-roles access for different users to work for the last sprint of my progress.
 
