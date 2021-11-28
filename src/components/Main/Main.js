@@ -58,6 +58,10 @@ const Main = ({ classData }) => {
                 <em className="main__code">Meet :</em>
                 <div className="main__id" > <a href={classData.meet} style={{color: "white"}}>{classData.meet}</a></div>
               </div>
+              <div className="main__wrapper2">
+                <em className="main__code">Class Code :</em>
+                <div className="main__id" > <a style={{color: "white"}}>{classData.id}</a></div>
+              </div>
             </div>
           </div>
         </div>
