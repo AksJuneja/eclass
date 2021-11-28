@@ -62,16 +62,13 @@ E Class is an online classroom for educational institutes for managing different
     <li>
 	   <a href="#quick-attendance">Quick attendance</a>
    </li>
-   <li>
-	   <a href="#log-out">Log out</a>
-   </li>
     </li>
   </ol>
 </details>
 
 ## Authentication
 
-<li>The login page is a role based login for different users. The user chooses his role as either a "Teacher" or a "Student" and thereby the user is redirected to the Google sign up page where the user can login using his Google account.</li>
+<li>The login page provides a role based login feature to the users to sign in. The user chooses his role as either a "Teacher" or a "Student" and thereby the user is redirected to the Google authentication page where the user can signin/signup using his Google account.</li>
 
 ## Create a Class
 
@@ -101,7 +98,7 @@ E Class is an online classroom for educational institutes for managing different
 
 The Sprint Planning for the process of 3 weeks.
 
-Before every sprint I used to set a target and plan for my proceedings.
+Before every sprint, I used to set a target and plan for my proceedings.
 
 **Sprint 1** : After deciding the tech stack and the work flow, I worked on creating the layout of the main page. After this work was done, the main task I followed during this period was to create the "Create a class" and "Join a class" portal.
 
